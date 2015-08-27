@@ -1,3 +1,8 @@
+This is a WPS implementation that supports the online visual data inspection tool (INSPECT2). This service has been deployed as part of the TERENO data infrastructure.It is currently being to gather more detailed information about the quality descriptors and the history of a station, to update flagging information, and to approve data release via INSPECT.
+
+================================================================================================================
+
+
 # 52°North Web Processing Service [![Build Status](https://travis-ci.org/52North/WPS.png?branch=master)](https://travis-ci.org/52North/WPS)
 
 The 52°North Web Processing Service (WPS) enables the deployment of geo-processes on the web in
